@@ -1,2 +1,2 @@
 # blog
-a blog for me
+a blog for me, for interview
